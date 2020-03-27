@@ -1,4 +1,4 @@
 
-I advise you to open the code with the jupyter notebook!
+I recommend you open the code and recompile it with Jupyter notebook!
 
-Jupyter notebook ile kodu açmanızı tavsiye ederim!
+Jupyter notebook ile kodu açmanızı ve yeniden derlemenizi tavsiye ederim!
